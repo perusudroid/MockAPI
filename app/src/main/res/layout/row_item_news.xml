@@ -37,6 +37,7 @@
                 android:layout_height="150dp"
                 android:scaleType="centerCrop"
                 app:pic="@{model.urlToImage}"
+                android:contentDescription="@string/app_name"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
@@ -75,7 +76,8 @@
                     android:id="@+id/img_share"
                     android:layout_width="25dp"
                     android:layout_height="25dp"
-                    android:layout_marginRight="15dp"
+                    android:contentDescription="@string/app_name"
+                    android:layout_marginStart="15dp"
                     android:layout_gravity="center_horizontal|end"
                     android:src="@android:drawable/ic_menu_share" />
 
@@ -83,6 +85,7 @@
                     android:id="@+id/img_like"
                     android:layout_width="25dp"
                     android:layout_height="25dp"
+                    android:contentDescription="@string/app_name"
                     android:layout_gravity="center_horizontal|end"
                     android:src="@drawable/red_heart" />
             </LinearLayout>
