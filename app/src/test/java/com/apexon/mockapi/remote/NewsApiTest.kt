@@ -50,7 +50,7 @@ class NewsApiTest {
             //Request received by the mock server
             val request = server.takeRequest()
             Truth.assertThat(responseBody).isNotNull()
-            Truth.assertThat(request.path).isEqualTo("/top-headlines?country=us&apiKey=a08189e17f724571be0caf50855dcc26")
+            Truth.assertThat(request.path).isEqualTo("/top-headlines?country=us&apiKey=2f04f825248f459f8886a35797324a82")
         }
     }
 
@@ -71,7 +71,7 @@ class NewsApiTest {
             val responseBody = service.getAllNews().body()
             val articles = responseBody!!.articles
             val article = articles?.get(0)
-            Truth.assertThat(article?.author).isEqualTo("PNs")
+            Truth.assertThat(article?.author).isEqualTo("PN")
         }
     }
 
