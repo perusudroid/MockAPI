@@ -11,7 +11,8 @@ class NewsAdapter(val callback: (String?) -> Unit) : RecyclerView.Adapter<NewsAd
     var list: List<NewsResponse.Articles>? = null
     set(value) {
         field = value
-        notifyItemRangeChanged(0,(value?.size ?: 0))
+        notifyDataSetChanged()
+        //notifyItemRangeChanged(0,(value?.size ?: 0)-1)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): VH {
