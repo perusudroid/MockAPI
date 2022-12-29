@@ -3,10 +3,8 @@ package com.apexon.mockapi.ui
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.viewModels
-import androidx.annotation.VisibleForTesting
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.test.espresso.IdlingResource
 import com.apexon.mockapi.common.CountingIdlingResourceSingleton
 import com.apexon.mockapi.common.Status
 import com.apexon.mockapi.databinding.ActivityNewsBinding
