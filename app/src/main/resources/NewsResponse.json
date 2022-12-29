@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "PN",
+      "title": "S. Korea launches jets, fires shots after North flies drones - The Associated Press",
+      "description": "SEOUL, South Korea (AP) — South Korea’s military fired warning shots, scrambled fighter jets and flew surveillance assets across the heavily fortified border with North Korea on Monday, after North Korean drones violated its airspace for the first time in fiv…",
+      "url": "https://apnews.com/article/south-korea-drones-8ae75ec612d676455529499a3f20eabb",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/5a395c39fa5a4ab0829fbf75ca374c48/3000.webp",
+      "publishedAt": "2022-12-26T11:13:09Z",
+      "content": "SEOUL, South Korea (AP) South Koreas military fired warning shots, scrambled fighter jets and flew surveillance assets across the heavily fortified border with North Korea on Monday, after North Kore… [+4207 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Landon Mion",
+      "title": "Russia launches missiles on Ukrainian towns on Christmas, claims Ukraine military - Fox News",
+      "description": "Russian forces launched more than 40 missiles into Ukrainian towns on Christmas day, according to Ukraine's military. Both countries blame the other for failing to negotiate.",
+      "url": "https://www.foxnews.com/world/russia-launches-missiles-ukrainian-towns-christmas-ukraines-military-claims",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/russiaattack.png",
+      "publishedAt": "2022-12-26T09:49:54Z",
+      "content": "Russian forces continued to wage war on Ukraine over the holiday weekend, with more than 40 missiles being launched into Ukrainian towns on Christmas day, according to Ukraine's military.\r\nAccording … [+3523 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "SamMobile, Asif Iqbal Shaik",
+      "title": "Galaxy S23 is getting a brightness, battery, and performance boost - SamMobile - Samsung news",
+      "description": "We are just one month away from the official Galaxy S23 announcement. So, some solid leaks regarding Samsung's upcoming high-end ...",
+      "url": "https://www.sammobile.com/news/base-galaxy-s23-screen-brightness-battery-boost/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2022/09/Galaxy-s23-plus-2-720x405.jpg",
+      "publishedAt": "2022-12-26T09:31:00Z",
+      "content": "We are just one month away from the official Galaxy S23 announcement. So, some solid leaks regarding Samsungs upcoming high-end phones have started appearing. Yesterday, the first official image of t… [+1227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "China Taiwan Latest News | China Conducts Drills Around Taiwan Airspace | China News | English News - CNN-News18",
+      "description": "China Taiwan Latest News | China Conducts Drills Around Taiwan Airspace | China News | English News China on Sunday staged \"strike drills\" around Taiwan's ai...",
+      "url": "https://www.youtube.com/watch?v=_hqvYiPOKaQ",
+      "urlToImage": "https://i.ytimg.com/vi/_hqvYiPOKaQ/maxresdefault.jpg",
+      "publishedAt": "2022-12-26T09:13:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Nouran Salahieh",
+      "title": "Winter storm leaves at least 37 dead nationwide as residents in western New York remain trapped under feet of snow - CNN",
+      "description": "As a massive winter storm continues to blast much of the US with brutal winter weather -- leading to at least 37 deaths nationwide -- parts of western New York have been buried by up to 43 inches of snow, leaving vehicles stuck and power out for thousands dur…",
+      "url": "https://www.cnn.com/2022/12/26/weather/arctic-winter-storm-new-york-blizzard-monday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221226133001-03-winter-weather-ny.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-26T08:36:00Z",
+      "content": "As a massive winter storm continues to blast much of the US with brutal winter weather leading to at least 37 deaths nationwide parts of western New York have been buried by up to 43 inches of snow, … [+7333 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Associated Press",
+      "title": "Heavy snow in Japan leaves 17 dead, dozens injured - New York Post ",
+      "description": "Heavy snow in large swaths of Japan has killed 17 and injured more than 90 people and left hundreds of homes without power.",
+      "url": "https://nypost.com/2022/12/26/heavy-snow-in-japan-leaves-17-dead-dozens-injured/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/12/newspress-collage-25135497-1672041156818.jpg?quality=75&strip=all&1672023193&w=1024",
+      "publishedAt": "2022-12-26T08:13:00Z",
+      "content": "Heavy snow in large swaths of Japan has killed 17 and injured more than 90 people and left hundreds of homes without power, disaster management officials said Monday.\r\nPowerful winter fronts have dum… [+1763 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "Cody Benjamin",
+      "title": "Cardinals vs. Buccaneers score, takeaways: Tom Brady guides late comeback as Tampa Bay gets past Arizona in OT - CBS Sports",
+      "description": "This one was ugly from start to finish",
+      "url": "https://www.cbssports.com/nfl/news/cardinals-vs-buccaneers-score-takeaways-tom-brady-guides-late-comeback-as-tampa-bay-gets-past-arizona-in-ot/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/25/f336cf77-93e2-4865-ae1b-9e76df0fc06f/thumbnail/1200x675/d9de8b0fb6bd0b647bba843b5c38d159/brady-4g.jpg",
+      "publishedAt": "2022-12-26T07:51:00Z",
+      "content": "Trace McSorley had a chance to play both hero and spoiler in his first career NFL start, helping the Cardinals take the NFC South-leading Buccaneers to overtime in the final game of the league's Chri… [+3224 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "'The ICU is full': frontline workers of China's COVID fight say hospitals are 'overwhelmed' - Reuters",
+      "description": "In more than three decades of emergency medicine, Beijing-based doctor Howard Bernstein said, he has never seen anything like this.",
+      "url": "https://www.reuters.com/world/china/the-icu-is-full-medical-staff-frontline-chinas-covid-fight-say-hospitals-are-2022-12-26/",
+      "urlToImage": "https://www.reuters.com/resizer/FyOK1Ug9tvBkxkDmW0O-esdxcu0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X64MGCQKXFL6LIQUGSJZVF3YFE.jpg",
+      "publishedAt": "2022-12-26T07:07:00Z",
+      "content": "BEIJING, Dec 26 (Reuters) - In more than three decades of emergency medicine, Beijing-based doctor Howard Bernstein said, he has never seen anything like this.\r\nPatients are arriving at his hospital … [+4523 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Sam Tabahriti",
+      "title": "Caroline Ellison said she's 'truly sorry' for defrauding FTX customers - Business Insider",
+      "description": "Former Alameda Research CEO made the comments when pleading guilty to seven criminal counts relating to the FTX collapse, The New York Times reported.",
+      "url": "https://www.businessinsider.com/caroline-ellison-said-shes-truly-sorry-for-defrauding-ftx-customers-2022-12",
+      "urlToImage": "https://i.insider.com/63a95cba47bbe40019835d11?width=1200&format=jpeg",
+      "publishedAt": "2022-12-26T07:00:00Z",
+      "content": "Caroline Ellison apologized for her role in defrauding customers and investors of cryptocurrency exchange FTX, telling a judge she \"knew it was wrong,\" according to a transcript of her plea hearing s… [+2045 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Stock Market Today: Dow, S&P Live Updates for Dec. 26, 2022 - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=1d830699-84fb-11ed-b036-584465657466&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMi0yNS9pbnZlc3Rvci1mb2N1cy1vbi1pbmZsYXRpb24tcGF0aC1jaGluYS1jb3ZpZC13b2VzLW1hcmtldHMtd3JhcA==",
+      "urlToImage": null,
+      "publishedAt": "2022-12-26T06:57:00Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sahar Akbarzai, AnneClaire Stapleton",
+      "title": "All 10 people feared missing in Austria avalanche found alive - CNN",
+      "description": "All of the people feared missing after an avalanche Sunday near the mountainous villages of Lech and Zurs in Austria have been found alive, according to the Austrian Press Agency (APA).",
+      "url": "https://www.cnn.com/2022/12/25/europe/austria-avalanche-lech-zurs/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221225133312-01-austria-avalanche-122522.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-26T06:34:00Z",
+      "content": "All of the people feared missing after an avalanche Sunday near the mountainous villages of Lech and Zurs in Austria have been found alive, according to the Austrian Press Agency (APA).\r\nFour have be… [+690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Over 7000 left without power after three Pierce County substation facilities attacked - KTVB",
+      "description": "Police responded to burglary calls at two stations and then found the attacks.",
+      "url": "https://www.youtube.com/watch?v=Y3A0ZJJR8y0",
+      "urlToImage": "https://i.ytimg.com/vi/Y3A0ZJJR8y0/hqdefault.jpg",
+      "publishedAt": "2022-12-26T05:22:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Guardian staff reporter",
+      "title": "NBA Christmas 2022: Tatum’s 41 power Celtics past Bucks in top-two matchup - The Guardian",
+      "description": "Jayson Tatum scored 41 for Boston on Sunday to help the Celtics beat Milwaukee 139-118 in a matchup of the top two teams in the NBA",
+      "url": "https://www.theguardian.com/sport/2022/dec/25/nba-christmas-day-games-2022-scores",
+      "urlToImage": "https://i.guim.co.uk/img/media/e467b7ea5918a6393bbdc2fd0c191f5eba8c50cc/0_184_5511_3307/master/5511.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc38fb022d189df930c67c0aca54c022",
+      "publishedAt": "2022-12-26T03:34:00Z",
+      "content": "Jaylen Brown knocked down his shots in the fourth quarter. And then he knocked down Bucks star Giannis Antetokounmpo.\r\nBrown scored 13 of his 29 points in the fourth, and Jayson Tatum scored 41 for B… [+6703 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Laurin-Whitney Gottbrath",
+      "title": "NGOs suspend Afghanistan operations after Taliban ban women - Axios",
+      "description": "AfghanAid, Save the Children, the Norwegian Refugee Council and CARE said they could no longer effectively provide aid.",
+      "url": "https://www.axios.com/2022/12/25/taliban-ban-women-ngo-save-children-nrc-care",
+      "urlToImage": "https://images.axios.com/d-dYpmEJztKMYH8XCSWGJ2Z6VEA=/1366x768/smart/2022/12/25/1671975879196.jpg",
+      "publishedAt": "2022-12-26T03:14:10Z",
+      "content": "Major international aid groups suspended their operations in Afghanistan on Sunday after the Taliban banned all foreign and domestic non-governmental organizations from employing women. \r\nWhy it matt… [+3022 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Putin ‘ready for talks’ as Russian missiles rain down on Ukraine - Al Jazeera English",
+      "description": "Russian leader says Moscow willing to negotiate over Ukraine, slams West for trying to ‘tear apart historical Russia’.",
+      "url": "https://www.aljazeera.com/news/2022/12/25/putin-says-ukraine-invasion-meant-to-unite-historical-russia",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/AP22356692992684-1.jpg?resize=1920%2C1440",
+      "publishedAt": "2022-12-26T02:58:03Z",
+      "content": "Russian President Vladimir Putin has claimed that Moscow is ready for talks to end the 10-month war in Ukraine, as he slammed Western countries for trying to tear apart the historical Russia.\r\nPutins… [+4065 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "Three killed in second attack on Engels base deep inside Russia - CNBC",
+      "description": "The strikes dealt Russia a major reputational blow and raised questions about why its defenses failed, analysts said, as attention turned to the use of drones.",
+      "url": "https://www.cnbc.com/2022/12/26/ukraine-war-explosions-reported-at-engels-airbase-deep-inside-russia.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107171143-1672021710554-gettyimages-82827042-55742660.jpeg?v=1672022423&w=1920&h=1080",
+      "publishedAt": "2022-12-26T02:37:00Z",
+      "content": "Three Russian military personnel were killed early on Monday by falling wreckage of a Ukrainian drone that was shot down as it was attacking a base in Russia's Saratov region, Russian news agencies r… [+1524 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FOX 9"
+      },
+      "author": "FOX 9",
+      "title": "Missing man found dead after search in Stillwater - FOX 9 Minneapolis-St. Paul",
+      "description": "After a search on Christmas Day, a man reported missing in Stillwater has been found dead, family members say.",
+      "url": "https://www.fox9.com/news/missing-man-found-dead-after-search-in-stillwater",
+      "urlToImage": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2022/12/1280/720/Musser-missing-person.jpg?ve=1&tl=1",
+      "publishedAt": "2022-12-26T02:27:31Z",
+      "content": "STILLWATER, Minn. (FOX 9) - A missing man in Stillwater has been found dead after searches on Christmas Day, family members tell FOX 9.\r\nBraving subzero temperatures, more than 100 people came togeth… [+979 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kristen Rogers",
+      "title": "A 15-metric ton meteorite crashed in Africa. Now 2 new minerals have been found in it - CNN",
+      "description": "In a large meteorite found in Somalia, scientists have discovered two minerals that don't naturally form on Earth.",
+      "url": "https://www.cnn.com/2022/12/24/world/new-minerals-discovered-in-el-ali-meteorite-scn/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221222195000-el-ali-meteorite-sample.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-26T02:08:00Z",
+      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nScientists have identified two minerals never before s… [+4796 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sports Illustrated"
+      },
+      "author": "Jelani Scott",
+      "title": "Sports World Sounds Off on Broncos, Russell Wilson’s Abysmal Game vs. Rams - Sports Illustrated",
+      "description": "Christmas Day 2022 will certainly be one to forget for Denver and the veteran quarterback after a horrible blowout loss in L.A.",
+      "url": "https://www.si.com/extra-mustard/2022/12/26/reactions-broncos-russell-wilson-abysmal-game-rams",
+      "urlToImage": "https://www.si.com/.image/t_share/MTk0NzA0NjAwMTQ4NzQ3NDI2/usatsi_19679893-1.jpg",
+      "publishedAt": "2022-12-26T01:59:39Z",
+      "content": "Christmas Day 2022 will go down as one to forget for Russell Wilson and the Broncos (4–11) following a downright abysmal showing in a 51–14 loss to Baker Mayfield and the Rams (5–10) in Los Angeles.\r… [+1902 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "INSIDER"
+      },
+      "author": "Rachel Askinasi",
+      "title": "Photos: Inside the Kardashian-Jenner Christmas party - Insider",
+      "description": "The Kardashian and Jenner sisters celebrated Christmas Eve at their annual party which featured some daring fashion and a performance by Sia.",
+      "url": "https://www.insider.com/photos-kardashian-jenner-christmas-party-2022-12",
+      "urlToImage": "https://i.insider.com/63a8d9ed46a5550018b7ee0d?width=1200&format=jpeg",
+      "publishedAt": "2022-12-25T23:38:20Z",
+      "content": "The Kardashians and Jenners hosted their annual Christmas Eve party on December 24 at Kourtney Kardashian Barker's Calabasas home. \r\nThe sisters gave their Instagram and TikTok followers a peek at wh… [+1810 chars]"
+    }
+  ]
+}
