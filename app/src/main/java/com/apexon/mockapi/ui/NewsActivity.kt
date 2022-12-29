@@ -57,4 +57,5 @@ class NewsActivity : AppCompatActivity() {
         }
     }
 
+
 }
