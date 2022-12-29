@@ -26,5 +26,6 @@ dependencyResolutionManagement {
         }
     }
 }
+
 rootProject.name = "MockAPI"
 include ':app'
