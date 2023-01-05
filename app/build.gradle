@@ -127,6 +127,11 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:' + rootProject.runnerVersion
     androidTestImplementation 'androidx.test.espresso:espresso-core:' + rootProject.espressoVersion
     androidTestImplementation 'androidx.test.espresso:espresso-contrib:' + rootProject.espressoVersion
+
+    //robo-electric
+    testImplementation "org.robolectric:robolectric:4.9"
+    testImplementation 'org.robolectric:shadows-httpclient:3.0'
+    testImplementation "org.robolectric:annotations:4.9"
 }
 
 // Allow references to generated code
