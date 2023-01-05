@@ -30,7 +30,7 @@ class NewsRepoTest {
     }
 
     @Test
-    fun tearDown() {
+    fun mockResponse() {
         runBlocking {
             Mockito.`when`(newsApi.getAllNews()).thenReturn(Response.success(NewsResponse("ok",10)))
             val response = newRepo.getNews()
